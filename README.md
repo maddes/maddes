@@ -15,7 +15,7 @@
       - Interactive Bible History and Archeological guide.
       - 7th day Adventist Biblical Commentary for mobile.
       - Ellen G. White Q&A reference site/app, stackoverflow style.
-    - Growthn & Evangelism
+    - Growth & Evangelism
       - Modern Pathfinders badges: coding, networking, IT security, video-editing, ...
       - AI Evangelizer. A complex version of the simple "guess the animal" machine learning game to provide theological answers.
     - Social
